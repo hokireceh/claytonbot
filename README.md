@@ -1,6 +1,6 @@
 # Clayton Bot
 
-🔗 **KLIK TO GET USER/QUERY**: [Clayton](https://t.me/claytoncoinbot/game?startapp=1170158500)
+🔗 **KLIK TO GET USER/QUERY**: [CLAYTON](https://t.me/claytoncoinbot/game?startapp=1170158500)
 
 ## 📢 Telegram Group
 
