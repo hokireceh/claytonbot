@@ -54,3 +54,6 @@ node main.js
 - Dogs: ```UQBOGHJAp7EXL5WgAw3E2wfOF7HBapd8YyQxU6wa7V1WZD6N```
 - TRON / USDT (Tron20): ```TChYgcKG6zRwz5FP9UTZrAik3xDPa12M94```
 
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
