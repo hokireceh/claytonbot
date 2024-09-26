@@ -13,6 +13,22 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 - If you want to buy a VPS at me, please DM us
 - Disclaimer friends, I use this for personal use. use at your own risk.
 
+| ✅ | Feature                     |
+|----|-----------------------------|
+| ✅ | Automates playing a game 1024 |
+| ✅ | Performs daily tasks         |
+| ✅ | Daily check                 |
+| ✅ | Collecting coins            |
+| ✅ | Multiple accounts            |
+| ✅ | Proxy            |
+
+## Prerequisites
+
+- Node.js installed on your system
+- npm (Node Package Manager)
+- An account on the Master Protocol platform
+- Git installed on your system (for cloning the repository)
+
 ## 🚀 Run File
 
 - Linux / Termux
