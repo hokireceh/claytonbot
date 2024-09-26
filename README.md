@@ -22,7 +22,9 @@ git clone https://github.com/hokireceh/claytonbot.git && cd claytonbot
 ```
 npm install
 ```
-
+```
+node main.js
+```
 
 ## ⚠️ Note
 - Get auth data (`query_id=... /user=...`) in the `Application` tab in DevTools.
